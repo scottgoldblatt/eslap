@@ -82,7 +82,7 @@ The phone number of the contact.
 address_1 & address_2
 ---
 
-Address fields are validated to the extent possible, eg `20 Mainstreet` will become `20 Main St`.
+Address fields will be returned in the same format as they were received.
 
 city
 ---
