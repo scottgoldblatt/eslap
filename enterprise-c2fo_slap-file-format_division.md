@@ -62,6 +62,10 @@ division_name
 
 Your name for this division. Taken literally. Leading or Trailing spaces will be clipped.  For example `' JohnCo'` or `'JohnCo '` will become `'JohnCo'` while `'John Co'` will remain exactly as given.
 
+tax_id
+---
+
+The Taxpayer Identification Number (TIN) for this vendor. For non-US based entities, this might be the identifiable tax ID for that country's tax authority.
 
 ---
 ---
